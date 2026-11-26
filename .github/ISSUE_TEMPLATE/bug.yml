@@ -30,7 +30,7 @@ body:
     attributes:
       label: "Hoe kan iemand anders dit nadoen?"
       placeholder: |
-        1. Open index.php
+        1. Open de site met npm start
         2. ...
         3. Zie de fout
     validations:
